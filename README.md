@@ -1,1 +1,6 @@
-# WhatsCooking
+
+OUTPUT:
+Decision Tree: 0.6368321810182276
+Naive Bayes: 0.7323695788812068
+Random Forest: 0.7611565053425519
+Support Vector Machine: 0.7859208045254557
